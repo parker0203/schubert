@@ -1,0 +1,12 @@
+set hls 
+syntax on 
+set whichwrap=b,s,<,>,[,] 
+set sw=4    
+set ts=4    
+set expandtab  
+set autoindent
+set cindent
+set nu
+set ic    
+
+filetype indent plugin on 
