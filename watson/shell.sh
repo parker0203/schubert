@@ -108,7 +108,7 @@ ps
 top
 jobs
 bg
-fg
+fg  # ^z will detach it
 kill
 killall
 shutdown
