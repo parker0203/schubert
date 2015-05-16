@@ -143,3 +143,7 @@ alias egrep='egrep --color=auto'
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
 HISTSIZE=100000
 HISTFILESIZE=200000
+
+export CLICOLOR=1
+export LSCOLORS=GxFxCxDxBxegedabagaced
+
